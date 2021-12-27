@@ -1,0 +1,189 @@
+/*general*/
+header{
+    display: inline;
+}
+h1{
+    font-size: 40px ;
+    text-align: center;
+    margin-right: 0px;
+    
+    
+}
+
+.titre{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+}
+
+
+#main-image
+{
+    height: 230px;
+    background: url('background.png') center ;
+    border-radius: 7px;
+   
+    
+}
+#photo{
+    border-radius: 7px;
+    height: 200px;
+    border: solid #fff 5px;
+    margin-top: 9px;
+    margin-left: 80px;
+   
+}
+#main-image h1,h2{
+    
+    background-color: #fff;
+    background-size: 150px 60px;
+    float: right;
+    margin-right: 80px;
+    padding: 20px 40px;
+    margin-top: 47px;
+    border-radius: 7px;
+}
+
+.wrapper h4{
+    font-size: 25px;
+}
+
+
+#steps div ul{
+    
+    height: 100px;
+    width: 800px;
+}
+
+.wrapper1{
+    display: inline-flex;
+}
+.image{
+    height: 80px;
+    margin-left: 30px;
+}
+
+#step-2{
+    text-align: left;
+
+}
+#step-2 ul{
+    margin-top: 20px;
+}
+#google{
+    height: 50px;
+    padding-top: 10px;
+}
+div #step-1{
+    font-weight: bold;
+    margin-left: 60px;
+    margin-right: 0px;
+    width: 640px;
+    
+}
+div #step-1 ul li{
+    font-weight: normal;
+}
+.soustitre{
+    display: inline-flex;
+}
+div.wrapper1{
+    margin-top:30px ;
+    margin-left: 40px;
+    align-content: center;
+}
+div.soustitre{
+    background-color:#FBEFF1 ;
+    border-radius: 7px;
+    padding : 20px 10px 5px 10px;
+}
+#bas_des_competences{
+    padding-top: 0px;
+    
+}
+.deroulant {
+    background-color: #FBEFF1;
+    color: black;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+    padding:10px;
+    margin-top:10px;
+    font-size: 15px;
+}
+.deroulant:hover {
+    background-color: #6644ff;
+    }
+.dropdown {
+    position: relative;
+    display: inline-block;
+    }
+.sous {
+    display: none;
+    background-color: #f28c8c;
+    border-radius: 7px;
+    min-width: 50px;
+}
+.sous li {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown:hover .sous {
+    display: block;
+}
+    
+div.soustitre2{
+    background-color:#FBEFF1 ;
+    border-radius: 7px;
+    padding : 20px 10px 5px 10px;
+}
+.wrapper2{
+    display:block;
+}
+.soustitre2{
+    display: inline-flex;
+}
+.image3{
+    height: 75px;
+    margin-top: 10px;
+
+}
+#main-image2
+{
+    height: 330px;
+    background: url('background.png') center ;
+    border-radius: 7px;
+    margin-top: 550px;   
+}
+#photo2{
+    height: 70px;
+    border-radius: 7px;
+    border: solid #fff 5px;
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: #FBEFF1;
+}
+div.soustitre3{
+    background-color:#FBEFF1 ;
+    border-radius: 7px;
+    padding : 20px 20px 0px 20px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.soustitre3{
+    display: inline-flex;
+}
+div.soustitre3.image4.ul{
+    padding-top: 0px;
+}
+.image4{
+    height: 75px;
+    margin-top: 85px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+div.wrapper2{
+    margin-left: 80px;
+}
